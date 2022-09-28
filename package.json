@@ -36,5 +36,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "Этот проект был создан при помощи [Create React App](https://github.com/facebook/create-react-app). Для знакомства и настройки дополнительных возможностей [обратись к документации](https://facebook.github.io/create-react-app/docs/getting-started).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolaiPustylnyi/goit-react-hw-01-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikolaiPustylnyi/goit-react-hw-01-components/issues"
   }
 }
