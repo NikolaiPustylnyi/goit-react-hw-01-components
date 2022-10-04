@@ -17,11 +17,16 @@
     height: 60px;
     display: flex;
     list-style: none;
+    background-color: #333333;
 }
 
 .item{
     width: 25%;
     color: #fff;
+}
+
+.item:not(:last-child){
+  border-right: 1px solid white;
 }
 
 .label{
@@ -36,5 +41,3 @@
     display: flex;
     justify-content: space-evenly;
 }
-
-
